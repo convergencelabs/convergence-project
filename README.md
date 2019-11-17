@@ -1,3 +1,7 @@
+<div style="text-align:center">
+  <img  alt="Convergence Logo" height="80" src="assets/logo.png" >
+</div>
+
 # Convergence Management Project
 This project is used as a centralized place for project planning and issue reporting for the core Convergence Projects including:
 
