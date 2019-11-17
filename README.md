@@ -1,4 +1,4 @@
-<div style="text-align:center">
+<div align="center">
   <img  alt="Convergence Logo" height="80" src="assets/logo.png" >
 </div>
 
