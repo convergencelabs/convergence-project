@@ -11,3 +11,17 @@ This project is used as a centralized place for project planning and issue repor
 * [Convergence Protocol Client](https://github.com/convergencelabs/convergence-proto/)
 
 The individual issue reporting on these projects has been disabled. All issues should be reported here for these projects.  However, merge request should be submitted to the individual projects.
+
+## Resources
+
+* [Developer Guide](https://docs.convergence.io/guide/)
+* [API Documentation](https://docs.convergence.io/js-api/)
+* [Convergence Road Map](https://convergence.io/roadmap/)
+
+## Support / Contact
+[Convergence Labs](https://convergencelabs.com) provides several different channels for support:
+
+- Please use the [Convergence Community Forum](https://forum.convergence.io) for general and technical questions, so the whole community can benefit.
+- For paid dedicated support or custom development services, [contact us](https://convergence.io/contact-sales/) directly.
+- Email <support@convergencelabs.com> for all other support inquiries.
+- Chat with use on the [Convergnce Public Slack](https://slack.convergence.io)
