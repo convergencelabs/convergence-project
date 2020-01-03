@@ -11,8 +11,8 @@ assignees: ''
 *Please fill in all that apply:*
  - Convergence Version: [e.g. 1.0.0]
  - OS: [e.g. Linux, MacOS]
- - Browser [e.g. chrome, safari]
- - Java Version [e.g. openjdk 11]
+ - Browser: [e.g. chrome, safari]
+ - Java Version: [e.g. openjdk 11]
 
 **Description**
 A clear and concise description of the feature you would like.
