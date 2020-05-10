@@ -24,6 +24,6 @@ The individual issue reporting on these projects has been disabled. All issues s
 
 - Please use the [Convergence Community Forum](https://forum.convergence.io) for general and technical questions, so the whole community can benefit.
 - For paid dedicated support or custom development services, [contact us](https://convergence.io/contact-sales/) directly.
-- Chat with us on the [Convergnce Public Slack](https://slack.convergence.io)
+- Chat with us on the [Convergence Public Slack](https://slack.convergence.io)
 - Email <support@convergencelabs.com> for all other support inquiries.
 
