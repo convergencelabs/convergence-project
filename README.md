@@ -17,7 +17,7 @@ The individual issue reporting on these projects has been disabled. All issues s
 
 * [Developer Guide](https://docs.convergence.io/guide/)
 * [API Documentation](https://docs.convergence.io/js-api/)
-* [Convergence Road Map](https://convergence.io/roadmap/)
+* [Convergence Road Map](https://github.com/convergencelabs/convergence-project/wiki/Convergence-Road-Map)
 
 ## Support / Contact
 [Convergence Labs](https://convergencelabs.com) provides several different channels for support:
