@@ -15,15 +15,8 @@ The individual issue reporting on these projects has been disabled. All issues s
 
 ## Resources
 
-* [Developer Guide](https://docs.convergence.io/guide/)
-* [API Documentation](https://docs.convergence.io/js-api/)
+* [Developer Guide](https://guide.convergence.io/)
+* [API Documentation](https://api-docs.convergence.io/)
 * [Convergence Road Map](https://github.com/convergencelabs/convergence-project/wiki/Convergence-Road-Map)
 
-## Support / Contact
-[Convergence Labs](https://convergencelabs.com) provides several different channels for support:
-
-- Please use the [Convergence Community Forum](https://forum.convergence.io) for general and technical questions, so the whole community can benefit.
-- For paid dedicated support or custom development services, [contact us](https://convergence.io/contact-sales/) directly.
-- Chat with us on the [Convergence Public Slack](https://slack.convergence.io)
-- Email <support@convergencelabs.com> for all other support inquiries.
 
